@@ -1,13 +1,13 @@
-#div_img_cover {
-  width: 40rem;
-  margin: auto;
 
-@media only screen and (max-device-width : 640px) {
+@media (max-width: 768px) {
+#div_img_cover {
   max-width: 320px; 
   margin: auto;
   }
-  
- 
+}
+#div_img_cover {
+  width: 40rem;
+  margin: auto;
 }
 #div_img_cover img{
   width:100%;
@@ -36,7 +36,7 @@
   font-size: 13px;
   line-height: 13px;
   left: 0;
-  margin-left: 20px;
+  margin-left: 20px;  
   position: absolute;
   width: 260px;
   text-transform: none;
