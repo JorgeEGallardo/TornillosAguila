@@ -8,6 +8,13 @@
 #div_img_cover {
   width: 40rem;
   margin: auto;
+
+.btn-plataforma {
+
+    height: 75px;
+    margin: 2rem;
+    min-width: 15rem;
+
 }
 #div_img_cover img{
   width:100%;
