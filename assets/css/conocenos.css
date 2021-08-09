@@ -1,0 +1,38 @@
+#conocenos{
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+
+.aguila-img{
+    max-width: max-content;
+    width: 100%;
+    margin: auto;
+}
+.aguila1-img{
+    max-width: max-content;
+    width: 100%;
+    margin: auto; 
+    margin-bottom: 2rem;
+}
+.titulos{
+    color:orangered;
+    font-weight: 500;
+    margin-bottom: 2%;
+    margin-top: 2rem;
+}
+.parrafos{  
+    margin: auto;
+    text-align: center;
+    color: #000;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    max-width: 850px;
+  
+}
+@media (max-width: 320px) {
+    .aguila-img img{
+        max-width: max-content;
+        width: 100%;
+        margin: auto;
+    }
+}
